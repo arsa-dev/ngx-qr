@@ -1,6 +1,6 @@
 {
-  "name": "ngx-qr",
-  "version": "1.1.13",
+  "name": "@arsa-dev/ngx-qr",
+  "version": "1.1.16",
   "scripts": {
     "start": "ng serve --aot --host 0.0.0.0 --disable-host-check --ssl",
     "build": "ng-packagr -p ng-package.json",
@@ -13,13 +13,14 @@
   "main": "./src/index.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/armanfatahi/ngx-qr"
+    "url": "https://github.com/arsa-dev/ngx-qr"
   },
   "author": {
-    "name": "Arman Fatahi",
-    "email": "arman.fatahi@gmail.com"
+    "name": "Antonio Ramón Sánchez Morales",
+    "email": "antonioramonsm@gmail.com"
   },
   "contributors": [
+    "Arman Fatahi <arman.fatahi@gmail.com>",
     "Mosh Mage <moshmage@gmail.com> (http://moshmage.gitlab.io)",
     "Christian Görg <goergc@gmx.de> (http://github.com/goergch)",
     "Arman Fatahi <arman.fatahi@gmail.com> (http://github.com/armanfatahi)"
@@ -32,7 +33,7 @@
   ],
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/armanfatahi/ngx-qr/issues"
+    "url": "https://github.com/arsa-dev/ngx-qr/issues"
   },
   "dependencies": {
     "tslib": "^1.10.0"
